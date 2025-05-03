@@ -1,2 +1,3 @@
 # Prashant-demo
-This is my first repository
+This is my first github repository
+Author name Prashant Pandey
